@@ -3,6 +3,8 @@ Welcome to my GitHub profile, I'm Taha, and I am interested in cybersecurity and
 
 
 ## 🌐 Socials:
+my tryhackme profile: https://tryhackme.com/p/Tahix
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahaxlac)
 
 I only talk about games and hardware-related matters on my YouTube channel: https://youtu.be/aW5JjL4_fnU?si=abEev0KE2QblJNUc 
